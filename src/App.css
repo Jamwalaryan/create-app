@@ -1,6 +1,15 @@
 .App {
   text-align: center;
+  background-color: purple;
+  width: 500px;
 }
+.container{
+  text-align: center;
+  justify-content: center;
+  background-color: purple;
+  width: 500px;
+}
+
 
 .App-logo {
   height: 40vmin;
